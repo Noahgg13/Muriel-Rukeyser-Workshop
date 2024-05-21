@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "TCDL Workshop - SpokenWeb - Muriel Rukeyser" ] },
+    "summary": { "en": [ "AVAnnotate/AudiAnnotate Learning Workshop" ] },
+    "items": [
+    ]
+}
