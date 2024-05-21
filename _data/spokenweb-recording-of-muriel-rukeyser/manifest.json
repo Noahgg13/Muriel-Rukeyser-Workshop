@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "SpokenWeb Recording of Muriel Rukeyser" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/muriel_rukeyser_i006-11-162",
+        "type": "Text",
+        "label": { "en": [ "SpokenWeb Recording of Muriel Rukeyser" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3084.0,
+        "items": [
+          {
+            "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801403.us.archive.org/9/items/muriel_rukeyser_i006-11-162/muriel_rukeyser_i006-11-162.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3084.0
+                },
+                "target": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
