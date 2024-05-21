@@ -23,6 +23,16 @@
         "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3084.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/annotations/spokenweb-recording-of-muriel-rukeyser-canvas-1-opening-speaker.json",
+            "label": {
+              "none": ["Opening Speaker"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/paintings",

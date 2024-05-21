@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/annotations/spokenweb-recording-of-muriel-rukeyser-canvas-1-opening-speaker.json",
+  "type": "AnnotationPage",
+  "label": "Opening Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spokenweb-recording-of-muriel-rukeyser-canvas-1-opening-speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,8.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spokenweb-recording-of-muriel-rukeyser-canvas-1-opening-speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Inaudible]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8.0,15.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spokenweb-recording-of-muriel-rukeyser-canvas-1-opening-speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Feedback",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Noahgg13.github.io/Muriel-Rukeyser-Workshop/spokenweb-recording-of-muriel-rukeyser/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "17.0,19.0"
+        }
+      }
+    }
+  ]
+}
